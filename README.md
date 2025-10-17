@@ -21,4 +21,7 @@ Power BI | SQL Server | Excel | DAX
   <img width="1255" height="802" alt="Inventory_Product_Analysis" src="https://github.com/user-attachments/assets/b19fc125-a8d8-4e38-aef1-9372868af108" />
 
 
+  ### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNTBiMzYzNjUtMzY1NC00MmE5LWJkZjEtZjdlZDUwMTQ1ZjU1IiwidCI6ImFmZmM4YTIyLWY1ZDMtNDA4Zi05NThlLWFiOTY0ODI3YmU5OSJ9
+
+
 
