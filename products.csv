@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Unit_Price,Cost_Price,Supplier,Warranty_Months
+P001,Wireless Mouse,Electronics,5810,4576,Logitech,24
+P002,Bluetooth Headphones,Peripherals,11060,7738,Dell,6
+P003,Laptop Bag,Accessories,2590,1525,Boat,24
+P004,Mechanical Keyboard,Electronics,1150,881,Samsung,12
+P005,USB Cable,Electronics,9140,6644,Logitech,6
+P006,Portable Charger,Accessories,600,475,Dell,24
+P007,Webcam HD,Electronics,12540,7562,HP,6
+P008,Gaming Mouse,Storage,2970,1769,Dell,12
+P009,Monitor 24 inch,Peripherals,4770,3249,Logitech,6
+P010,SSD 512GB,Storage,6650,4141,Sony,12
+P011,External HDD 1TB,Accessories,9290,5433,Dell,12
+P012,Smartphone Case,Electronics,4590,2944,Boat,12
+P013,Wireless Charger,Electronics,7000,5224,Sony,12
+P014,Fitness Band,Peripherals,3240,2198,Logitech,24
+P015,Bluetooth Speaker,Storage,9010,5060,HP,6
+P016,Desk Lamp,Storage,9230,5469,Boat,24
+P017,Graphic Tablet,Peripherals,1260,991,Samsung,12
+P018,Router,Accessories,14490,10897,Boat,6
+P019,Microphone,Accessories,4780,2745,Zebronics,6
+P020,HDMI Cable,Accessories,10360,6837,Boat,12
