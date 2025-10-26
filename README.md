@@ -10,11 +10,11 @@ Developed a data-driven dashboard to help a retail company analyze sales trends,
 Power BI | SQL Server | Excel | DAX
 
 ### 📈 Highlights
-- Total Sales: ₹5.34M | Profit: ₹1.54M | YoY Growth: +123.48%
+- Total Sales: ₹5.34M | Profit: ₹1.54M | YoY Growth: 23.48%
 - 3-page interactive dashboard (Performance, Customer Insights, Inventory & Supplier)
 - Automated restocking alerts and supplier-wise profitability tracking.
 
-  <img width="1257" height="801" alt="Summary" src="https://github.com/user-attachments/assets/10e9613b-b6dd-4abf-adb3-a97ca5ab535c" />
+  <img width="1247" height="797" alt="Summary" src="https://github.com/user-attachments/assets/ddbbb4ec-f0d4-4269-8c10-5e83e32fcfaf" />
 
   <img width="1248" height="797" alt="customer_insight" src="https://github.com/user-attachments/assets/4c7347b2-daff-4100-ac2b-19653845131e" />
 
