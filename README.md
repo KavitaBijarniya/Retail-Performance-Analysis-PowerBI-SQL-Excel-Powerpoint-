@@ -14,7 +14,7 @@ Power BI | SQL Server | Excel | DAX
 - 3-page interactive dashboard (Performance, Customer Insights, Inventory & Supplier)
 - Automated restocking alerts and supplier-wise profitability tracking.
 
-  <img width="1247" height="805" alt="summary" src="https://github.com/user-attachments/assets/6c060171-ecdd-483f-b8f8-d2af41ce14d5" />
+  <img width="1257" height="801" alt="Summary" src="https://github.com/user-attachments/assets/10e9613b-b6dd-4abf-adb3-a97ca5ab535c" />
 
   <img width="1248" height="797" alt="customer_insight" src="https://github.com/user-attachments/assets/4c7347b2-daff-4100-ac2b-19653845131e" />
 
